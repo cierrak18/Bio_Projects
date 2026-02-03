@@ -14,7 +14,7 @@ This repository showcases hands-on projects that reflect my growth across
 **AI engineering**, **data engineering**, and **computational biology**.
 
 
-🌍🧬 Data Engineering, AI & Bioinformatics Projects
+## 🌍🧬 Data Engineering, AI & Bioinformatics Projects
 
 A growing portfolio of hands-on projects at the intersection of data engineering, machine learning, and computational biology.
 These projects reflect my progression from data cleaning and pipeline design to interactive analytics, bioinformatics modeling, and scalable ML workflows.
