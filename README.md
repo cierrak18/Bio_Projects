@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I’m Cierra
+# 👋🏽 Hi, I’m Cierra
 
 I’m a **data engineer and bioinformatics practitioner** with a strong interest in building
 reproducible data pipelines, scalable analytics, and biologically meaningful models.
@@ -14,7 +14,7 @@ This repository showcases hands-on projects that reflect my growth across
 **AI engineering**, **data engineering**, and **computational biology**.
 
 
-## 🌍🧬 Data Engineering, AI & Bioinformatics Projects
+# 🌍🧬 Data Engineering, AI & Bioinformatics Projects
 
 A growing portfolio of hands-on projects at the intersection of data engineering, machine learning, and computational biology.
 These projects reflect my progression from data cleaning and pipeline design to interactive analytics, bioinformatics modeling, and scalable ML workflows.
@@ -27,8 +27,8 @@ These projects reflect my progression from data cleaning and pipeline design to 
 - Visualization & Analytics: R Shiny dashboards, geospatial mapping, correlation analysis
 - Tools & Languages: Python, R, PySpark, Apache Spark, pandas, Shiny, Leaflet
 
-## 📁 Project Overview
-# 🌬️🦠 Air × Microbiome Dashboard Map
+# 📁 Project Overview
+## 🌬️🦠 Air × Microbiome Dashboard Map
 📂 air_microbiome_dashboard_map/
 
 An interactive R Shiny application for exploring relationships between air pollution exposure and nasal microbiome composition across time and geography.
@@ -55,7 +55,7 @@ Skills grown
 - Combining environmental health data with microbiome datasets
 - Statistical reasoning and visual storytelling
 
-# 🧹🌫️ Cleaning & Formatting EPA Air Quality Data
+## 🧹🌫️ Cleaning & Formatting EPA Air Quality Data
 📂 cleaning_air_data/
 
 A Python-based data engineering toolkit for cleaning, filtering, and reshaping EPA AQS air quality datasets (PM₂.₅, PM₁₀, NO₂).
@@ -78,7 +78,7 @@ Skills grown
 - Building user-friendly data tools (GUI + CLI)
 - Designing reusable data pipelines for analytics and dashboards
 
-# 🩺📊 Diabetes Prediction with Apache Spark
+## 🩺📊 Diabetes Prediction with Apache Spark
 📂 diabetes_prediction/
 
 A machine learning project using PySpark and Spark MLlib to predict diabetes outcomes using logistic regression.
@@ -102,7 +102,7 @@ Skills grown
 - Transitioning from pandas-based ML to distributed systems
 - Understanding production-oriented ML workflows
 
-# 🧬 Rosalind Bioinformatics Practice
+## 🧬 Rosalind Bioinformatics Practice
 📂 rosalind/
 
 A collection of foundational bioinformatics algorithms implemented in Python using problems from Rosalind.
@@ -120,7 +120,7 @@ Skills grown
 - DNA/RNA sequence manipulation
 - Translating biological rules into clean, testable code
 
-# 🚀 How These Projects Fit Together
+## 🚀 How These Projects Fit Together
 
 These projects reflect a progressive skill trajectory:
 
@@ -136,7 +136,7 @@ Together, they support my growth toward roles in:
 - Bioinformatics & Computational Biology
 - Environmental & Public Health Analytics
 
-# 📌 Next Steps (In Progress / Planned)
+## 📌 Next Steps (In Progress / Planned)
 
 - Integrating cleaned air quality data directly into microbiome dashboards
 - Expanding microbiome analysis to higher taxonomic levels
