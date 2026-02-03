@@ -34,15 +34,5 @@ Enterprise and mission environments rarely provide clean, single-source data. Th
   - https://cierrab2319.shinyapps.io/air-micro-explorer/
 
 ## Architecture (High Level)
-```mermaid
-flowchart LR
-  A[EPA AQS + Microbiome Data] --> B[Cleaning + Formatting Pipelines]
-  B --> C[combined.csv (analysis-ready)]
-  C --> D[Deterministic Analysis Tools]
-  E[Public Methods + Literature Docs] --> F[Embeddings + FAISS Index]
-  G[User Question] --> H[Agent Router]
-  H --> D
-  H --> I[RAG Query]
-  D --> J[Decision Memo + Metrics]
-  I --> J
+
 
